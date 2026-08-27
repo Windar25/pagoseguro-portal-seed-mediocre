@@ -10,4 +10,9 @@
     "build": "mkdir -p dist && cp app/NOEXISTE.html dist/ && echo build-ok",
     "start": "pnpm dlx serve app"
   }
-}
+}     
+
+
+
+
+
